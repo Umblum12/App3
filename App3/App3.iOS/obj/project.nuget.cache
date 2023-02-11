@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3tU6cLb5ns5iobVIePQMyeNvKIJH9sHKnXTpqBvVb0cHcmkrLRjO5YlUUNIc3wWEBHcJl4wHVrwd7Rj3RwGzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abela\\source\\repos\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abela\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
